@@ -1,0 +1,66 @@
+C:\Users\alfon\source\repos\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\ProyectoVisual_III.exe.config
+C:\Users\alfon\source\repos\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\ProyectoVisual_III.exe
+C:\Users\alfon\source\repos\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\ProyectoVisual_III.pdb
+C:\Users\alfon\source\repos\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.csprojAssemblyReference.cache
+C:\Users\alfon\source\repos\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.Form1.resources
+C:\Users\alfon\source\repos\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.Properties.Resources.resources
+C:\Users\alfon\source\repos\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.csproj.GenerateResource.cache
+C:\Users\alfon\source\repos\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.csproj.CoreCompileInputs.cache
+C:\Users\alfon\source\repos\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.exe
+C:\Users\alfon\source\repos\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.pdb
+C:\Users\alfon\source\repos\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.Login.resources
+C:\Users\alfon\source\repos\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\alfon\source\repos\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.csproj.CopyComplete
+C:\Users\alfon\source\repos\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.Admin.resources
+C:\Users\alfon\source\repos\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.Libros.resources
+C:\Users\alfon\source\repos\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.Compra.resources
+C:\Users\sape\Desktop\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\ProyectoVisual_III.exe.config
+C:\Users\sape\Desktop\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.exe
+C:\Users\sape\Desktop\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.pdb
+C:\Users\sape\Desktop\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\ProyectoVisual_III.exe
+C:\Users\sape\Desktop\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\ProyectoVisual_III.pdb
+C:\Users\sape\Desktop\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\sape\Desktop\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\sape\Desktop\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.csprojResolveAssemblyReference.cache
+C:\Users\sape\Desktop\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.Admin.resources
+C:\Users\sape\Desktop\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.Compra.resources
+C:\Users\sape\Desktop\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.Form1.resources
+C:\Users\sape\Desktop\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.frmReporte.resources
+C:\Users\sape\Desktop\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.Libros.resources
+C:\Users\sape\Desktop\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.Login.resources
+C:\Users\sape\Desktop\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.Properties.Resources.resources
+C:\Users\sape\Desktop\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.csproj.GenerateResource.Cache
+C:\Users\sape\Desktop\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.frmClientes.resources
+C:\Users\sape\Desktop\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.frmAdicionar.resources
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.exe
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.pdb
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\ProyectoVisual_III.exe
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\ProyectoVisual_III.pdb
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.csprojResolveAssemblyReference.cache
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.Admin.resources
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.Compra.resources
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.devoluciones.resources
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.Form1.resources
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.frmAdicionar.resources
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.frmClientes.resources
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.frmReporte.resources
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.Libros.resources
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.Properties.Resources.resources
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.renta.resources
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.csproj.GenerateResource.Cache
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Angel Gonzales\Desktop\proyecto de progra\ProyectoVisual_III\ProyectoVisual_III\obj\Debug\ProyectoVisual_III.form.resources
